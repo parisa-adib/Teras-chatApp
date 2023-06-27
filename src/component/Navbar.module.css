@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 8vh;
+    background-color: #BFA5A5;
+}
+.logo {
+    align-items: center;
+    margin-right: 20%;
+}
+.logoTxt {
+    color: #FFF;
+    text-align: center;
+    font-family: Iceland;
+    font-size: 18px;
+}
+.logOutBtn {
+    border-radius: 8px;
+    background: #653B3D;
+    margin-left: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #FFF;
+    text-align: center;
+    font-size: 15px;
+    font-family: Iceland;
+    padding: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,8 @@
+.chats{
+    font-family: Iceland;
+}
+
+.loadingContainer {
+    display: flex;
+    justify-content: center;
+}
